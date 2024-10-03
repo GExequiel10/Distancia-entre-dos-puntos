@@ -1,1 +1,2 @@
-# Primer commit del proyecto Distancia entre dos puntos
+# Primer commit
+Proyecto Distancia entre dos puntos
